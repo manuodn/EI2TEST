@@ -1,2 +1,2 @@
 # EI2TEST
-$ echo Bonjour tout le monde 
+Bonjour tout le monde 
